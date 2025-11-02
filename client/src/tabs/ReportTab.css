@@ -1,0 +1,280 @@
+.report-tab {
+  padding: 20px 0;
+}
+
+.prakarti-btn {
+  width: 100%;
+  padding: 16px;
+  font-size: 18px;
+  margin-top: 16px;
+}
+
+.prakarti-result {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.prakarti-type {
+  color: #10b981;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.quiz-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.quiz-content {
+  background: white;
+  border-radius: 20px;
+  padding: 24px;
+  max-width: 600px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.quiz-progress {
+  margin-bottom: 24px;
+}
+
+.progress-text {
+  display: block;
+  text-align: center;
+  margin-top: 8px;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.quiz-question h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-btn {
+  width: 100%;
+  padding: 14px;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.upload-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+  overflow-x: auto;
+}
+
+.upload-btn {
+  min-width: 100px;
+  padding: 16px;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 14px;
+}
+
+.upload-btn:hover {
+  border-color: #10b981;
+  background: #f0fdf4;
+}
+
+.upload-btn svg {
+  font-size: 24px;
+  color: #10b981;
+}
+
+.upload-hint {
+  color: #9ca3af;
+  font-size: 12px;
+  text-align: center;
+}
+
+.input-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.emoji {
+  font-size: 24px;
+}
+
+.slider {
+  flex: 1;
+  height: 8px;
+  border-radius: 4px;
+  background: #e5e7eb;
+  outline: none;
+  -webkit-appearance: none;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #10b981;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #10b981;
+  cursor: pointer;
+  border: none;
+}
+
+.stress-level-text {
+  text-align: center;
+  font-weight: 600;
+  color: #111827;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.preference-grid,
+.diseases-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.questions-section, .disease-questions-section {
+  margin: 24px 0;
+}
+
+.question-card {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.question-text {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 16px;
+}
+
+.options-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  width: 100%;
+  padding: 14px 20px;
+  text-align: left;
+  background: white;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #374151;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.option-btn:hover {
+  border-color: #10b981;
+  background: #f0fdf4;
+}
+
+.option-btn.active {
+  border-color: #10b981;
+  background: #10b981;
+  color: white;
+  font-weight: 600;
+}
+
+.preference-btn,
+.disease-btn {
+  padding: 10px 16px;
+  font-size: 14px;
+  background: #f3f4f6;
+  color: #111827;
+  border: 2px solid transparent;
+}
+
+.preference-btn.active,
+.disease-btn.active {
+  background: #10b981;
+  color: white;
+  border-color: #10b981;
+}
+
+.plan-form-section {
+  margin-top: 24px;
+}
+
+.plan-display {
+  margin-top: 32px;
+}
+
+.plan-section {
+  margin-bottom: 24px;
+}
+
+.plan-section h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: #111827;
+}
+
+.plan-section h4 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #047857;
+}
+
+@media (max-width: 768px) {
+  .upload-buttons {
+    flex-direction: column;
+  }
+
+  .preference-grid,
+  .diseases-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

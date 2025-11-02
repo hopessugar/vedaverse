@@ -1,0 +1,184 @@
+.home-tab {
+  padding: 20px 0;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+.welcome-card {
+  background: linear-gradient(135deg, #f0fdf4, #d1fae5);
+  margin-bottom: 24px;
+}
+
+.welcome-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.welcome-icon {
+  font-size: 48px;
+}
+
+.welcome-text h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.welcome-text .highlight {
+  color: #047857;
+}
+
+.welcome-text p {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #10b981, #34d399);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.streak-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  color: #f97316;
+  font-weight: 600;
+}
+
+.streak-icon {
+  color: #f97316;
+}
+
+.pose-card {
+  background: #f9fafb;
+}
+
+.pose-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.pose-info h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.pose-sanskrit {
+  color: #6b7280;
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+.pose-description {
+  color: #4b5563;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.pose-illustration {
+  flex-shrink: 0;
+}
+
+.pose-icon {
+  font-size: 64px;
+}
+
+.herb-card,
+.yoga-card {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.herb-card:hover,
+.yoga-card:hover {
+  transform: translateY(-4px);
+}
+
+.herb-image,
+.yoga-image {
+  width: 100%;
+  height: 150px;
+  background: linear-gradient(135deg, #d1fae5, #a7f3d0);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.herb-placeholder,
+.yoga-placeholder {
+  font-size: 64px;
+}
+
+.herb-content h4,
+.yoga-content h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.yoga-sanskrit {
+  color: #6b7280;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.herb-benefits {
+  list-style: none;
+  padding: 0;
+  margin-top: 8px;
+}
+
+.herb-benefits li {
+  color: #4b5563;
+  font-size: 14px;
+  margin-bottom: 4px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.herb-benefits li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #10b981;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .pose-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .pose-illustration {
+    order: -1;
+  }
+}
+

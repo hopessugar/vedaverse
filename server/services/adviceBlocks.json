@@ -1,0 +1,582 @@
+{
+  "D_P_Kapha": {
+    "category": "Diet_Philosophy",
+    "dosha": "Kapha",
+    "details": "Your plan must focus on foods that are **Light, Dry, and Warm**. Your digestion (Manda Agni) is slow and heavy, so we must 'rekindle' it with spices and by avoiding heavy, cold, and oily foods."
+  },
+  "D_P_Pitta": {
+    "category": "Diet_Philosophy",
+    "dosha": "Pitta",
+    "details": "Your plan must focus on foods that are **Cool, Heavy, and Dry**. Your digestion (Tikshna Agni) is too sharp and 'hot'. We need to calm this fire with cooling, substantial foods and avoid acidic or spicy 'fuel'."
+  },
+  "D_P_Vata": {
+    "category": "Diet_Philosophy",
+    "dosha": "Vata",
+    "details": "Your plan must focus on foods that are **Warm, Moist, and Grounding**. Your digestion (Visham Agni) is irregular and 'cold'. We need to create a predictable routine with warm, nourishing, simple-to-digest foods."
+  },
+  "Y_K_Surya_Namaskar": {
+    "category": "Yoga",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Surya Namaskar (Sun Salutation)",
+    "details": "Perform 5-10 rounds at a dynamic, fast pace. Focus on deep breathing to build heat (Agni) and energize the body. This is a full-body workout that directly counters Kapha's stagnation."
+  },
+  "Y_K_Kapalabhati": {
+    "category": "Yoga",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Kapalabhati (Skull Shining Breath)",
+    "details": "Perform 3 rounds of 30-50 sharp, forceful exhalations. This pranayama builds internal fire, clears the sinuses, and strongly moves stagnant energy (Kapha) from the chest and head."
+  },
+  "Y_K_Bhastrika": {
+    "category": "Yoga",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "Asthma", "Physical inactivity", "Unhealthy diet"],
+    "advice": "Bhastrika (Bellows Breath)",
+    "details": "Perform for 1-2 minutes. This is a powerful, heating practice that acts like a bellows for your internal fire (Agni), burning through congestion and lethargy."
+  },
+  "Y_K_Chest_Openers": {
+    "category": "Yoga",
+    "dosha": "Kapha",
+    "disease": ["Asthma", "PCOD/PCOS", "Cardiac", "Climate or air pollution"],
+    "advice": "Chest Openers (Ustrasana, Bhujangasana, Setu Bandhasana)",
+    "details": "Poses like Camel, Cobra, and Bridge open the chest and lungs, countering the 'congestive' nature of Kapha and improving breath."
+  },
+  "Y_K_Twists": {
+    "category": "Yoga",
+    "dosha": "Kapha",
+    "disease": ["Diabetes", "Cholesterol/Lipid", "Unhealthy diet"],
+    "advice": "Seated Twists (Ardha Matsyendrasana)",
+    "details": "Twisting poses 'wring out' the abdominal organs, stimulating a sluggish liver and 'Manda Agni' (slow digestion)."
+  },
+  "Y_P_Sheetali": {
+    "category": "Yoga",
+    "dosha": "Pitta",
+    "disease": ["Hypertension", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity"],
+    "advice": "Sheetali/Shitkari Pranayama (Cooling Breath)",
+    "details": "Perform for 2-5 minutes. Inhale through a curled tongue (Sheetali) or teeth (Shitkari) to physically cool the body, reduce inflammation, and calm (Pitta) anger/frustration."
+  },
+  "Y_P_Moon_Salutation": {
+    "category": "Yoga",
+    "dosha": "Pitta",
+    "disease": ["Hypertension", "Cholesterol/Lipid", "Tobacco/Alcohol"],
+    "advice": "Chandranamaskar (Moon Salutation)",
+    "details": "This is the cooling, calming alternative to the heating Sun Salutation. It helps to soothe intensity and frustration."
+  },
+  "Y_P_Baddha_Konasana": {
+    "category": "Yoga",
+    "dosha": "Pitta",
+    "disease": ["Diabetes", "PCOD/PCOS", "Unhealthy diet"],
+    "advice": "Baddha Konasana (Bound Angle Pose)",
+    "details": "This pose (and its reclined version) is excellent for cooling the pelvic region, which is a primary site of Pitta imbalance (e.g., in menstruation or digestion)."
+  },
+  "Y_P_Gentle_Yoga": {
+    "category": "Yoga",
+    "dosha": "Pitta",
+    "disease": ["Cancer (Breast/Prostate)", "Cardiac"],
+    "advice": "Gentle, Restorative Yoga",
+    "details": "Your body is already in an inflamed (Pitta) state. The goal is not to 'push', but to 'soothe'. Focus on gentle stretches and deep, calm breathing."
+  },
+  "Y_V_Nadi_Shodhana": {
+    "category": "Yoga",
+    "dosha": "Vata",
+    "disease": ["Hypertension", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet", "PCOD/PCOS", "Climate or air pollution"],
+    "advice": "Nadi Shodhana (Alternate Nostril Breathing)",
+    "details": "Perform for 5-10 minutes. This practice is the single best way to calm an anxious mind and soothe a (Vata) nervous system. It balances the right and left brain."
+  },
+  "Y_V_Grounding_Poses": {
+    "category": "Yoga",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Asthma", "Cardiac", "PCOD/PCOS"],
+    "advice": "Grounding Poses (Balasana, Vajrasana, Cat/Cow)",
+    "details": "Child's Pose, Thunderbolt Pose, and Cat/Cow are slow, grounding, and connect you to the earth. They soothe Vata's 'airy' and 'erratic' nature."
+  },
+  "Y_V_Pavanmuktasana": {
+    "category": "Yoga",
+    "dosha": "Vata",
+    "disease": ["Diabetes", "Unhealthy diet", "PCOD/PCOS"],
+    "advice": "Pavanmuktasana (Wind-Relieving Pose)",
+    "details": "This pose directly targets 'Visham Agni' (irregular digestion) by massaging the colon and releasing trapped gas (Vata)."
+  },
+  "Y_V_Restorative": {
+    "category": "Yoga",
+    "dosha": "Vata",
+    "disease": ["Cancer (Breast/Prostate)"],
+    "advice": "Yoga Nidra (Deep Relaxation)",
+    "details": "This guided meditation is profoundly nourishing for a depleted (Vata) system, helping to manage fatigue, anxiety, and pain. It 'rebuilds Ojas' (vitality)."
+  },
+  "Y_T_Gentle_Limbering": {
+    "category": "Yoga",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Physical inactivity"],
+    "advice": "Gentle Joint Rotations (Pawanmuktasana Series 1)",
+    "details": "Because you noted stiff, dry, or cracking joints, it is *critical* to do 5-10 minutes of gentle rotations (neck, shoulders, wrists, hips, ankles) *before* any other exercise to lubricate the joints and prevent injury."
+  },
+  "Y_T_Competitive_Caution": {
+    "category": "Yoga",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Physical inactivity"],
+    "advice": "Focus on 'Play', not 'Competition'",
+    "details": "You noted a competitive, 'all-or-nothing' mindset. This (Pitta) trait can lead to burnout or injury. Reframe exercise as 'play' or 'stress-relief', not a battle to be won."
+  },
+  "D_K_Eat_Barley": {
+    "category": "Foods_To_Eat",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid"],
+    "advice": "Barley (instead of Wheat or Rice)",
+    "rationale": "This is the #1 grain for Kapha. Its 'light', 'dry', and 'scraping' (Lekhana) qualities actively help reduce fat tissue and clear water retention."
+  },
+  "D_K_Eat_Bitter_Greens": {
+    "category": "Foods_To_Eat",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "Unhealthy diet"],
+    "advice": "Bitter & Pungent Vegetables (Kale, Karela, Radish)",
+    "rationale": "The 'bitter' taste purifies the blood and 'lightens' the body, while the 'pungent' taste (like radish) stimulates slow digestion."
+  },
+  "D_K_Eat_Warm_Spices": {
+    "category": "Foods_To_Eat",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Cholesterol/Lipid", "Asthma", "Physical inactivity", "Unhealthy diet"],
+    "advice": "Heating Spices (Ginger, Black Pepper, Turmeric, Cumin)",
+    "rationale": "These are your 'medicine'. They are the 'kindling' that re-ignites your slow digestive fire (Manda Agni), allowing you to digest food properly instead of storing it."
+  },
+  "D_K_Avoid_Dairy": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Climate or air pollution"],
+    "advice": "ALL Dairy (Milk, Cheese, Yogurt, Ice Cream)",
+    "rationale": "Dairy is the *primary* Kapha-aggravating food. It is 'heavy', 'cold', 'oily' and 'mucus-forming' - the exact qualities you are trying to remove."
+  },
+  "D_K_Avoid_Sugar": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Unhealthy diet"],
+    "advice": "ALL Refined Sugar & Heavy Fruits (Banana, Mango)",
+    "rationale": "The 'sweet' taste in excess directly builds Kapha (fat and water). This must be eliminated to see results."
+  },
+  "D_K_Avoid_Cold_Drinks": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Asthma", "Unhealthy diet"],
+    "advice": "Ice Water, Cold Drinks, Refrigerated Food",
+    "rationale": "Drinking ice water is like pouring water on your (already weak) digestive fire. It extinguishes it. You MUST only drink warm/hot water."
+  },
+  "D_K_Avoid_Salt": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Kapha",
+    "disease": ["Hypertension", "Cardiac"],
+    "advice": "CRITICAL: Restrict Salt Intake",
+    "rationale": "Salt is 'sweet' in its post-digestive effect and causes massive water retention (edema), which is a key driver of Kapha-type high blood pressure."
+  },
+  "D_K_Avoid_Fried_Heavy": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Cardiac", "Unhealthy diet"],
+    "advice": "All Fried, Heavy, Oily Foods (Red Meat, Hard Cheese)",
+    "rationale": "Your digestion (Manda Agni) cannot process these foods. They are converted directly into 'Ama' (toxins) and 'Meda' (fat tissue)."
+  },
+  "D_P_Eat_Cooling_Veg": {
+    "category": "Foods_To_Eat",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "Asthma", "Physical inactivity"],
+    "advice": "Cooling/Bitter Veg (Cucumber, Zucchini, Leafy Greens, Asparagus)",
+    "rationale": "The 'bitter' and 'sweet' (e.g., cucumber) tastes are the primary antidote to 'hot' Pitta. They cool the blood, cleanse the liver, and reduce inflammation."
+  },
+  "D_P_Eat_Sweet_Fruits": {
+    "category": "Foods_To_Eat",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Hypertension", "Asthma", "Cardiac"],
+    "advice": "Sweet Fruits (Pears, Grapes, Melon, Pomegranate)",
+    "rationale": "The 'sweet' taste (in fruits) is cooling and pacifies Pitta. Pomegranate is specifically revered for cleansing the blood (Rakta Shodhana)."
+  },
+  "D_P_Eat_Amla": {
+    "category": "Foods_To_Eat",
+    "dosha": "Pitta",
+    "disease": ["Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Cardiac", "Tobacco/Alcohol"],
+    "advice": "Amla (Indian Gooseberry)",
+    "rationale": "Amla is a rare 'tridoshic' herb that is *cooling* (Pitta) yet good for 'Agni' (digestion). It is a powerhouse of antioxidants and supports the liver."
+  },
+  "D_P_Avoid_Hot_Spicy": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Unhealthy diet", "Tobacco/Alcohol", "Climate or air pollution"],
+    "advice": "Hot & Spicy Foods (Chili, Cayenne, excess Garlic/Ginger)",
+    "rationale": "Pitta is already 'hot'. Eating pungent spices is like pouring gasoline on a fire. It creates inflammation, acidity, and irritability."
+  },
+  "D_P_Avoid_Sour_Salty": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Unhealthy diet", "Tobacco/Alcohol"],
+    "advice": "Sour & Salty Foods (Vinegar, Pickles, excess Salt, Aged Cheese)",
+    "rationale": "Both 'sour' and 'salty' tastes are 'heating' and will strongly aggravate Pitta, leading to inflammation and loose stools."
+  },
+  "D_P_Avoid_Alcohol_Red_Meat": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Pitta",
+    "disease": ["Hypertension", "Cholesterol/Lipid", "Cardiac", "Tobacco/Alcohol"],
+    "advice": "Alcohol and Red Meat",
+    "rationale": "These are the two most 'heating', 'acidic', and 'inflammatory' substances. They are major triggers for Pitta imbalance and must be avoided to heal the liver and blood."
+  },
+  "D_V_Eat_Warm_Soups": {
+    "category": "Foods_To_Eat",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Warm, Nourishing Soups & Stews (e.g., Mung Dal Kitchari)",
+    "rationale": "Vata is 'cold' and 'dry'. Warm, moist, simple foods are the #1 medicine. They are easy to digest for 'Visham Agni' (irregular fire) and they 'ground' the nervous system."
+  },
+  "D_V_Eat_Cooked_Veg": {
+    "category": "Foods_To_Eat",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "PCOD/PCOS", "Cancer (Breast/Prostate)"],
+    "advice": "Well-Cooked Root Vegetables (Carrots, Beets, Sweet Potato)",
+    "rationale": "These are 'sweet' and 'grounding'. They grow *underground*, absorbing Vata's 'airy' quality and providing nourishment."
+  },
+  "D_V_Eat_Good_Fats": {
+    "category": "Foods_To_Eat",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Cardiac", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Good Fats (Ghee, Sesame Oil)",
+    "rationale": "Vata is 'dry'. Healthy oils are essential to 'lubricate' the system, calm the nervous system, and ensure smooth bowel movements. Ghee is the best."
+  },
+  "D_V_Avoid_Cold_Raw": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "ALL Cold & Raw Foods (Salads, Ice Water, Smoothies)",
+    "rationale": "Vata is 'cold'. Cold foods extinguish your 'Visham Agni' (irregular fire) and increase gas, bloating, and anxiety. You MUST eat warm foods."
+  },
+  "D_V_Avoid_Dry_Light": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Unhealthy diet", "Tobacco/Alcohol"],
+    "advice": "Dry & Light Foods (Crackers, Chips, Popcorn, Dried Fruit)",
+    "rationale": "Vata is 'dry' and 'light'. These foods have the same qualities and will severely aggravate Vata, leading to anxiety, insomnia, and constipation."
+  },
+  "D_V_Avoid_Caffeine": {
+    "category": "Foods_To_Avoid",
+    "dosha": "Vata",
+    "disease": ["Hypertension", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol"],
+    "advice": "Caffeine & Stimulants",
+    "rationale": "Vata is already 'hyper-mobile' and 'erratic'. Caffeine is a pure Vata-aggravating substance that 'borrows' energy and leads to an anxiety-driven crash. It must be avoided."
+  },
+  "L_K_Wake_Early": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Wake BEFORE 6:00 AM. (Non-negotiable)",
+    "rationale": "The Kapha time of day (6-10 AM) is heavy and slow. If you sleep into this time, you absorb that energy. Waking before 6 AM *counters* this and is the #1 lifestyle change."
+  },
+  "L_K_Avoid_Naps": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "AVOID ALL DAYTIME NAPS.",
+    "rationale": "Napping during the day, especially after eating, is a primary cause of Kapha aggravation, slow metabolism, and weight gain. It must be stopped."
+  },
+  "L_K_Vigorous_Exercise": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Physical inactivity", "Unhealthy diet"],
+    "advice": "45-60 minutes of *vigorous* daily exercise.",
+    "rationale": "Gentle walking is not enough. Kapha needs to be *pushed*. You must get your heart rate up and break a sweat. Brisk walking, jogging, cycling, or fast vinyasa are ideal."
+  },
+  "L_K_Light_Dinner": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Cholesterol/Lipid", "PCOD/PCOS", "Cardiac", "Physical inactivity", "Unhealthy diet"],
+    "advice": "Eat a very light, early dinner (or skip it).",
+    "rationale": "Your digestion is weakest at night. A heavy dinner will be stored 100% as fat (Ama). A light soup, or even just herbal tea, is best."
+  },
+  "L_K_Udvartana": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "Cardiac", "Tobacco/Alcohol"],
+    "advice": "Practice 'Udvartana' (Dry Brushing)",
+    "rationale": "Before showering, vigorously massage your body with a dry powder (like chickpea flour) or dry brush. This stimulates the lymphatic system (Kapha's site) and counters stagnation."
+  },
+  "L_K_Gentle_Exercise": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Cancer (Breast/Prostate)"],
+    "advice": "Gentle, regular movement (like walking)",
+    "rationale": "During treatment, your energy is low, but *some* movement is crucial to prevent Kapha stagnation (lethargy, congestion). Gentle walking is perfect."
+  },
+  "L_K_Avoid_Damp": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Asthma", "Climate or air pollution"],
+    "advice": "Avoid Damp, Cold, Moldy Environments",
+    "rationale": "Your (Kapha) system is already 'damp' and 'cold'. These environments will directly aggravate your lungs and sinuses. Use a dehumidifier if needed."
+  },
+  "L_P_Manage_Stress": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity"],
+    "advice": "Manage Stress, Anger & Intensity",
+    "rationale": "Pitta's root imbalance is 'fire'. Anger, frustration, and intensity are mental 'fires' that translate into physical inflammation. Meditation and 'letting go' are your main medicine."
+  },
+  "L_P_Cool_Exercise": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Physical inactivity"],
+    "advice": "Exercise in COOL parts of the day.",
+    "rationale": "Avoid the midday sun. Exercise in the morning or evening. Swimming is the ideal Pitta-pacifying exercise. Avoid 'hot yoga' or overly competitive sports."
+  },
+  "L_P_No_Skip_Meals": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Unhealthy diet"],
+    "advice": "Do NOT skip meals.",
+    "rationale": "Your 'Tikshna Agni' (sharp fire) needs fuel. Skipping meals makes Pitta 'hangry', irritable, and acidic, leading to overeating and inflammation."
+  },
+  "L_V_Strict_Routine": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet"],
+    "advice": "MAINTAIN A STRICT ROUTINE. (Non-negotiable)",
+    "rationale": "Vata is 'erratic' and 'mobile'. Routine is the #1 antidote. Eating, sleeping, and waking at the *exact same time* every day (even weekends) is the primary cure for Vata imbalance."
+  },
+  "L_V_Abhyanga": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "PCOD/PCOS", "Asthma", "Cardiac", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet", "Climate or air pollution"],
+    "advice": "Practice 'Abhyanga' (Warm Oil Self-Massage)",
+    "rationale": "Vata is 'dry'. Before showering, massage your body with warm sesame oil. This calms the nervous system, lubricates dry skin/joints, and is profoundly grounding."
+  },
+  "L_V_Stay_Warm": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Asthma", "Cardiac", "PCOD/PCOS", "Climate or air pollution"],
+    "advice": "Stay Warm & Avoid Cold/Wind",
+    "rationale": "Vata is 'cold'. Cold environments, wind, and drafts will spike anxiety, dry out the skin/lungs, and constrict channels. Always protect your head/chest."
+  },
+  "L_T_K_Motivation_Buddy": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Physical inactivity"],
+    "advice": "Find an 'Accountability Buddy' or join a group class.",
+    "rationale": "You noted that your main barrier is low motivation, which is classic Kapha. Do not try to do this alone. Use the energy of others to get you started."
+  },
+  "L_T_Kapha_Journal": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Kapha",
+    "disease": ["Obesity"],
+    "advice": "Start a '1-line-a-day' journal for self-worth.",
+    "rationale": "You noted an emotional attachment to food and low self-worth. Every night, write *one* good thing you did or felt. This slowly rewires the brain to find comfort in *yourself*, not just in food."
+  },
+  "L_T_Pitta_Perfectionism": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Pitta",
+    "disease": ["Obesity"],
+    "advice": "Reframe from 'Perfectionism' to 'Consistency'.",
+    "rationale": "You noted an 'all-or-nothing' mindset. This Pitta trait causes burnout. The goal is not a *perfect* day, but a *good* week. 80% consistency is better than 100% for 3 days, followed by a 'crash'."
+  },
+  "L_T_Vata_Anxiety": {
+    "category": "Lifestyle_Advice",
+    "dosha": "Vata",
+    "disease": ["Obesity"],
+    "advice": "Eat your meals in a calm, seated environment.",
+    "rationale": "You noted anxiety is your main emotional barrier. Eating while stressed, driving, or watching TV puts your body in 'fight-or-flight' (Vata) mode, which *stops* digestion. You must sit and breathe before your first bite."
+  },
+  "R_K_Lemon_Honey": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Cholesterol/Lipid", "Hypertension", "Physical inactivity"],
+    "advice": "Warm water with 1/2 Lemon and 1 tsp Honey in AM.",
+    "rationale": "Honey is 'scraping' (Lekhana) and lemon 'cuts' through fat. This combination (in *warm*, not hot, water) is a classic way to start the Kapha-reducing day."
+  },
+  "R_K_Ginger_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Cholesterol/Lipid", "Physical inactivity", "Unhealthy diet"],
+    "advice": "Sip hot ginger tea throughout the day.",
+    "rationale": "This acts as a 'digestive fire' stimulant, keeping your Manda Agni (slow digestion) active all day long."
+  },
+  "R_K_Triphala": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS"],
+    "advice": "Take 1 tsp Triphala in warm water before bed.",
+    "rationale": "A classic 'tridoshic' remedy that supports healthy elimination and detoxification, gently 'scraping' Ama (toxins) from the channels."
+  },
+  "R_K_Trikatu": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Asthma", "Climate or air pollution", "Unhealthy diet"],
+    "advice": "Take 1/2 tsp Trikatu powder with honey.",
+    "rationale": "This 'Three Pungents' (ginger, black pepper, long pepper) formula is the most powerful for igniting 'Manda Agni' (slow fire) and burning away 'Ama' (toxins) and mucus."
+  },
+  "R_P_Aloe_Vera": {
+    "category": "Home_Remedies",
+    "dosha": "Pitta",
+    "disease": ["Obesity", "Diabetes", "Cholesterol/Lipid", "PCOD/PCOS", "Tobacco/Alcohol", "Climate or air pollution"],
+    "advice": "Drink 1/4 cup of aloe vera juice (diluted) in AM.",
+    "rationale": "Aloe is profoundly 'cooling' and anti-inflammatory. It soothes an 'angry' (Pitta) liver, skin, and digestive tract."
+  },
+  "R_P_Coriander_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Pitta",
+    "disease": ["Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Physical inactivity"],
+    "advice": "Sip on Coriander or Fennel Seed Tea.",
+    "rationale": "These seeds are 'cooling' but still support digestion. They are a perfect antidote to Pitta's 'fire' and help cool the urinary tract and reduce acidity."
+  },
+  "R_P_Amla": {
+    "category": "Home_Remedies",
+    "dosha": "Pitta",
+    "disease": ["Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Cardiac", "Tobacco/Alcohol", "Physical inactivity"],
+    "advice": "Take 1 tsp Amla powder or Amla juice daily.",
+    "rationale": "Amla (Indian Gooseberry) is one of the best Pitta-pacifying superfoods. It cools the blood, supports the liver, and is a rich source of Vitamin C."
+  },
+  "R_V_Triphala": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Cholesterol/Lipid", "PCOD/PCOS", "Asthma", "Tobacco/Alcohol", "Physical inactivity", "Unhealthy diet"],
+    "advice": "Take 1 tsp Triphala in warm water before bed.",
+    "rationale": "This is a gentle, *non-habituating* laxative that helps *regulate* (not force) Vata's irregular and dry bowels."
+  },
+  "R_V_Ginger_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Obesity", "Diabetes", "Hypertension", "Unhealthy diet", "Tobacco/Alcohol"],
+    "advice": "Sip warm ginger tea with meals.",
+    "rationale": "Warms the 'cold' Vata digestion (Visham Agni), helping to reduce gas and bloating and improve absorption of nutrients."
+  },
+  "R_V_Calming_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Hypertension", "PCOD/PCOS", "Tobacco/Alcohol"],
+    "advice": "Drink warm milk with nutmeg/cardamom, or chamomile tea.",
+    "rationale": "These are 'Sattvic' (calming) drinks that directly soothe the Vata nervous system, reduce anxiety, and promote deep sleep."
+  },
+  "R_D_Fenugreek": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Diabetes"],
+    "advice": "Drink fenugreek (methi) seed water (soaked overnight).",
+    "rationale": "Fenugreek is 'bitter' and 'heating' and has a well-known property of helping to manage blood sugar levels, especially for Kapha-type diabetes."
+  },
+  "R_H_Arjuna": {
+    "category": "Home_Remedies",
+    "dosha": "Pitta",
+    "disease": ["Hypertension", "Cardiac"],
+    "advice": "Arjuna (Terminalia Arjuna) - (Must Consult Doctor)",
+    "rationale": "Arjuna is the primary Ayurvedic herb for the heart muscle. It is 'cooling' (Pitta) and 'strengthening'. It MUST be cleared by your cardiologist first."
+  },
+  "R_K_Garlic": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Cardiac", "Cholesterol/Lipid", "Hypertension"],
+    "advice": "Take 1-2 cloves raw, crushed garlic in AM (Consult Doc).",
+    "rationale": "Garlic is 'heating' and 'clearing'. It is famously used to clear 'Ama' (toxins) from the blood vessels and support heart function."
+  },
+  "R_P_Pomegranate": {
+    "category": "Home_Remedies",
+    "dosha": "Pitta",
+    "disease": ["Cardiac"],
+    "advice": "Drink 1/4 cup of pomegranate juice daily.",
+    "rationale": "Pomegranate is 'cooling' and a 'Rakta Shodhana' (blood purifier). It is highly revered for supporting a 'hot', 'inflamed' (Pitta) heart condition."
+  },
+  "R_P_Spearmint_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["PCOD/PCOS"],
+    "advice": "Drink 1 cup of spearmint or cinnamon tea twice daily.",
+    "rationale": "Both herbs are known to be beneficial for Kapha/Pitta-type PCOS, helping with insulin sensitivity (cinnamon) and hormonal balance (spearmint)."
+  },
+  "R_A_Licorice_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Asthma", "Climate or air pollution"],
+    "advice": "Sip on warm Licorice Root tea.",
+    "rationale": "Licorice is 'moistening' and 'soothing', making it perfect for the 'dry', 'constrictive' Vata-type asthma or cough."
+  },
+  "R_C_Gargle": {
+    "category": "Home_Remedies",
+    "dosha": "Kapha",
+    "disease": ["Cancer (Breast/Prostate)"],
+    "advice": "Gargle with warm water, salt, and a pinch of turmeric.",
+    "rationale": "This is a simple, effective remedy to manage oral health and mucositis, a common side effect of chemotherapy."
+  },
+  "R_T_Nasya": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Tobacco/Alcohol", "Climate or air pollution"],
+    "advice": "Practice 'Nasya' (nasal oiling) with sesame oil.",
+    "rationale": "For tobacco/pollution, this lubricates dry nasal passages. For Vata-type addiction, it directly calms the brain and nervous system, helping with cravings."
+  },
+  "R_D_CCF_Tea": {
+    "category": "Home_Remedies",
+    "dosha": "Vata",
+    "disease": ["Unhealthy diet"],
+    "advice": "Sip 'CCF' (Cumin, Coriander, Fennel) tea.",
+    "rationale": "This is the classic 'tridoshic' tea for digestion. It calms Vata's gas/bloating without being overly heating or cooling."
+  },
+  "C_K_Pranayama": {
+    "category": "Cautions",
+    "advice": "Heating pranayama (Kapalabhati, Bhastrika) should be learned from a qualified instructor and avoided if you have unmanaged high blood pressure or heart conditions."
+  },
+  "C_K_Exercise": {
+    "category": "Cautions",
+    "advice": "Vigorous exercise is key, but if you are new to it, start slowly to avoid joint injury. Listen to your body and build up intensity over weeks."
+  },
+  "C_K_Honey": {
+    "category": "Cautions",
+    "advice": "Honey should *never* be heated, cooked, or added to boiling water. In Ayurveda, heated honey is considered toxic ('Ama-genic'). Add it to *warm* water only."
+  },
+  "C_P_Hot_Yoga": {
+    "category": "Cautions",
+    "advice": "Avoid 'hot yoga' (e.g., Bikram) or exercising in the midday sun. This will dangerously overheat your already 'hot' Pitta system."
+  },
+  "C_V_No_Fasting": {
+    "category": "Cautions",
+    "advice": "Do NOT fast or skip meals. This is the worst thing for Vata. It spikes anxiety, ruins digestion, and puts your body in 'emergency' mode."
+  },
+  "C_P_Acidity": {
+    "category": "Cautions",
+    "advice": "TAILORING: Your plan is for Kapha, but you have Pitta-type acidity. You MUST substitute cooling spices (fennel, coriander) for hot spices (ginger, cayenne)."
+  },
+  "C_V_Joints": {
+    "category": "Cautions",
+    "advice": "TAILORING: You have Kapha-type obesity, but Vata-type (dry, cracking) joints. You MUST do 5-10 minutes of gentle joint lubrication before *any* yoga or exercise to prevent injury."
+  },
+  "C_V_Pitta_Digestion": {
+    "category": "Cautions",
+    "advice": "TAILORING: You have a Vata imbalance but Pitta-type digestion (loose stools). Be cautious with warming oils and spices; substitute with cooling Ghee."
+  },
+  "C_P_Vata_Digestion": {
+    "category": "Cautions",
+    "advice": "TAILORING: You have a Pitta imbalance but Vata-type digestion (constipation). You MUST add warming, moist foods (ghee, warm water) and avoid 'drying' herbs, even if they are cooling."
+  },
+  "C_D_Hypoglycemia": {
+    "category": "Cautions",
+    "advice": "Consult your doctor before starting any new herb (like Karela or Fenugreek) if you are on insulin or medication, as it can cause hypoglycemia (low blood sugar)."
+  },
+  "C_H_Herbs": {
+    "category": "Cautions",
+    "advice": "Consult your cardiologist before starting ANY herbs (like Arjuna or Ashwagandha), as they can interact with heart and blood pressure medications."
+  },
+  "C_K_Garlic": {
+    "category": "Cautions",
+    "advice": "Garlic can thin the blood. If you are on blood thinners (e.g., Warfarin) or high-dose Aspirin, consult your doctor before taking it medicinally."
+  },
+  "C_C_Oncologist": {
+    "category": "Cautions",
+    "advice": "CRITICAL: All advice is SUPPORTIVE for side effects (anxiety, fatigue, dryness) and NOT a treatment for cancer. ALWAYS consult your oncologist before adding ANY new herb, food, or practice."
+  },
+  "C_C_Oncologist_P": {
+    "category": "Cautions",
+    "advice": "CRITICAL: All advice is SUPPORTIVE for side effects (inflammation, nausea, hot flashes) and NOT a treatment. ALWAYS consult your oncologist before adding ANY new herb. Do not 'detox'."
+  },
+  "C_C_Oncologist_K": {
+    "category": "Cautions",
+    "advice": "CRITICAL: All advice is SUPPORTIVE for side effects (lethargy, congestion, low appetite) and NOT a treatment. ALWAYS consult your oncologist before adding ANY new herb."
+  },
+  "C_T_Addiction": {
+    "category": "Cautions",
+    "advice": "Addiction is a complex disease. This advice is for supporting withdrawal, not a cure. Please consult a professional for addiction support."
+  },
+  "C_P_Neti_Pot": {
+    "category": "Cautions",
+    "advice": "A Neti Pot (nasal wash) is excellent, but you MUST use sterilized, distilled, or previously boiled water ONLY. Tap water can be dangerous."
+  }
+}

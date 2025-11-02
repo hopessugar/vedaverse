@@ -1,0 +1,9 @@
+# Copy this to server/.env and replace <db_password> with your actual MongoDB password
+
+PORT=5000
+MONGODB_URI=mongodb+srv://vyassilky1130_db_user:<db_password>@cluster0.m1slaxi.mongodb.net/vedaVerse?retryWrites=true&w=majority
+JWT_SECRET=vedaVerseSecretKeyChangeInProduction
+GEMINI_API_KEY=AIzaSyB6112TtdEAIjqscWHR84oBq97g7yzo8BE
+FRONTEND_URL=http://localhost:3000
+NODE_ENV=development
+
