@@ -1,0 +1,5 @@
+# Railway configuration - Skip build for root, only use server folder
+# This tells Railway to skip the root build process
+[phases.build]
+cmds = ["echo 'Skipping root build - Railway should use server folder as root directory'"]
+

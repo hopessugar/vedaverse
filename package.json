@@ -8,7 +8,7 @@
     "server": "cd server && nodemon index.js",
     "client": "cd client && npm run dev",
     "install-all": "npm install && cd server && npm install && cd ../client && npm install",
-    "build": "cd client && npm run build",
+    "build": "echo 'This is for local development only. Railway should use server folder.' && exit 1",
     "start": "cd server && npm start",
     "start:prod": "cd server && NODE_ENV=production node index.js"
   },
